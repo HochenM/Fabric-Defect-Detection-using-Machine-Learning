@@ -82,11 +82,18 @@ The project generates the following outputs for each image:
 * Polynomial regression based defect visualization
 * Clustering based segmentation map
 * Binary defect mask
-* Key Observation
+
+---
+  
+## Key Observation
+
 * Polynomial method performs better on simple and smooth fabric textures
 * Clustering method performs better on both simple and structured textures
 * Clustering is more robust to pattern variations
-* Skills Demonstrated
+  
+---
+
+## Skills Demonstrated
 * Image Processing
 * Unsupervised Machine Learning
 * Regression Based Anomaly Detection
