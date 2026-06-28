@@ -118,6 +118,21 @@ The project generates the following outputs for each image:
 * Experiment with DBSCAN clustering
 * Add evaluation metrics for quantitative comparison
 
+  ---
+
+## Requirements
+
+The project requires the following Python libraries:
+
+* numpy
+* opencv-python
+* matplotlib
+* scikit-learn
+
+Install dependencies using:
+
+pip install -r requirements.txt
+
 ---
 
 ## Author
