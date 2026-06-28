@@ -94,6 +94,7 @@ The project generates the following outputs for each image:
 ---
 
 ## Skills Demonstrated
+
 * Image Processing
 * Unsupervised Machine Learning
 * Regression Based Anomaly Detection
@@ -102,7 +103,7 @@ The project generates the following outputs for each image:
 * Model Comparison and Analysis
 * Computer Vision Pipeline Design
 
------
+----
 
 ## Limitations
 
